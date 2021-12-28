@@ -1,0 +1,27 @@
+{
+  "name": "mercada.us",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattmcmanus/mercada.us.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattmcmanus/mercada.us/issues"
+  },
+  "homepage": "https://github.com/mattmcmanus/mercada.us#readme",
+  "volta": {
+    "node": "16.13.1",
+    "npm": "8.3.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
